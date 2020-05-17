@@ -1,6 +1,4 @@
-button
-checkbox
-label
-radio
-select
-text_field
+car
+person
+other1
+other2
